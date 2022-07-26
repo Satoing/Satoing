@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satoing&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satoing&layout=compact&hide=HTML,JavaScript">
 
 <img src="https://metrics.lecoq.io/Satoing?template=classic&config.timezone=Asia%2FShanghai">
 
