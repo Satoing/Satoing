@@ -8,10 +8,7 @@
 ```
 
 <div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satoing&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <a href="[https://github.com/vn7n24fzkq/github-profile-summary-cards](https://github-readme-stats.vercel.app/api?username=Satoing&show_icons=true)">
     <img src="https://github-readme-stats.vercel.app/api?username=Satoing&show_icons=true">
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
