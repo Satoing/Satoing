@@ -6,12 +6,16 @@
 | |  | |  __/ | | (_) \  /\  / (_) | |  | | (_| |
 |_|  |_|\___|_|_|\___/ \/  \/ \___/|_|  |_|\__,_|
 ```
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satoing&layout=compact&hide=HTML,JavaScript">
 
-<img src="https://metrics.lecoq.io/Satoing?template=classic&config.timezone=Asia%2FShanghai">
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satoing&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-readme-stats.vercel.app/api?username=Satoing&show_icons=true">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satoing&theme=github&hide=HTML" />
+  </a>
+</div>
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Satoing&show_icons=true">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satoing">
